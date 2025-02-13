@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "https://michal-li.github.io/";
+    question.innerHTML = "-->https://michal-li.github.io/valentiiinn/";
     gif.src = "https://media1.tenor.com/m/kqWk7ezzSEYAAAAd/hai.gif";
 
     // Hide the No button
